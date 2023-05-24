@@ -1,0 +1,12 @@
+C:\code\rust-practice\projects\chat-app\target\debug\deps\async_trait-fb2f50b0d9a5b494.dll: C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\lib.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\args.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\bound.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\expand.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\lifetime.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\parse.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\receiver.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\verbatim.rs
+
+C:\code\rust-practice\projects\chat-app\target\debug\deps\async_trait-fb2f50b0d9a5b494.d: C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\lib.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\args.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\bound.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\expand.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\lifetime.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\parse.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\receiver.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\verbatim.rs
+
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\lib.rs:
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\args.rs:
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\bound.rs:
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\expand.rs:
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\lifetime.rs:
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\parse.rs:
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\receiver.rs:
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.68\src\verbatim.rs:

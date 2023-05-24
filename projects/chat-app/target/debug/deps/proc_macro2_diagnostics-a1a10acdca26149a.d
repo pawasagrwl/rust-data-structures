@@ -1,0 +1,10 @@
+C:\code\rust-practice\projects\chat-app\target\debug\deps\proc_macro2_diagnostics-a1a10acdca26149a.rmeta: C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\lib.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\ext.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\diagnostic.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\line.rs
+
+C:\code\rust-practice\projects\chat-app\target\debug\deps\libproc_macro2_diagnostics-a1a10acdca26149a.rlib: C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\lib.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\ext.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\diagnostic.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\line.rs
+
+C:\code\rust-practice\projects\chat-app\target\debug\deps\proc_macro2_diagnostics-a1a10acdca26149a.d: C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\lib.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\ext.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\diagnostic.rs C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\line.rs
+
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\lib.rs:
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\ext.rs:
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\diagnostic.rs:
+C:\Users\aggpa\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\line.rs:
